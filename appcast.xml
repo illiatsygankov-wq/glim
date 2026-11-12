@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Glim updates</title>
+    <item>
+      <title>Glim 1.4</title>
+      <pubDate>Thu, 12 Nov 2026 18:26:47 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>Обновление Glim. Настройки и вход в сервисы сохраняются.</description>
+      <enclosure url="https://raw.githubusercontent.com/illiatsygankov-wq/glim/main/updates/Glim-1.4-arm64.zip" length="2860116" type="application/octet-stream" sparkle:version="6" sparkle:shortVersionString="1.4" sparkle:edSignature="d4S/QwFshSCprrBR6wwHDF9eXg7wc3YOoWgy628RRje2yw9VHfCx5J6pwyaETgUeUw+Dl7xlA94y/MftFSD3Dw==" />
+    </item>
+  </channel>
+</rss>
